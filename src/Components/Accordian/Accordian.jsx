@@ -27,7 +27,7 @@ const Accordian = () => {
   const [tab, setTab] = useState("0");
 
 
-  let baseUrl = `http://45.32.70.221/api/`;
+  let baseUrl = `http://contributor.pravaig.com/api/`;
 
 
   useEffect(() => {
